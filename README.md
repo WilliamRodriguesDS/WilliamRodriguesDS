@@ -16,7 +16,7 @@
 <div> 
  
 
-## 🌐 Olá! Seja bem vindo ao meu protifolo <br>
+## 🌐 Olá! Seja bem vindo ao meu portfólio <br>
 Aventureiro digital, transformando aspirações em produtos inovadores com habilidades recém-adquiridas em desenvolvimento de sistemas
 
 ## 💼 Experiência Profissional: <br>
