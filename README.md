@@ -56,5 +56,9 @@ Ferramenta de Design: Figma <br> <br>
   <a href="https://www.linkedin.com/in/william-rodrigues-de-oliveira-3b4701274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 ## Certificados: <br>
-![AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20240605-7-bf0o8k_page-0001](https://github.com/William05DEV/William05DEV/assets/170208874/e6e3e916-db66-454e-8dc4-786e5abf2671)
+![AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20240610-8-35cphq_page-0001](https://github.com/WilliamRodriguesDS/WilliamRodriguesDS/assets/170208874/6d0225c3-b727-4106-b35f-f34cccdd3343)
+![GoogleDataAnalyticsProfessionalCertificate_Badge20240610-7-v5mpm1_page-0001](https://github.com/WilliamRodriguesDS/WilliamRodriguesDS/assets/170208874/790c604b-85d8-4ca8-8656-a45063ae1f62)
+![Escola Virtual - Fundação Bradesco_page-0001](https://github.com/WilliamRodriguesDS/WilliamRodriguesDS/assets/170208874/21fb7a3e-1f2c-44fe-84db-12e50703b6b8)
+
+
 </div>
