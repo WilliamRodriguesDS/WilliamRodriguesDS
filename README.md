@@ -1,4 +1,4 @@
-  ## 👨‍💻 Desenvolvedor de Sistemas | Arquiteto de códigos, construindo pontes entre problemas e soluções 🚀
+  ## 👨‍💻 William Rodrigues de Oliveira | Arquiteto de códigos, construindo pontes entre problemas e soluções 🚀
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -19,10 +19,11 @@
 ## 🌐 Olá! Seja bem vindo ao meu portfólio <br>
 Aventureiro digital, transformando aspirações em produtos inovadores com habilidades recém-adquiridas em desenvolvimento de sistemas
 
-## 💼 Experiência Profissional: <br>
-EEEP Mário Alencar -Primeira turma de Desenvolvimento de Sistemas 01/02/2021 - Atualmente
+## 💼 Educação: <br>
+Escola Estadual de Educação Profissional Mário Alencar - Primeira turma de Desenvolvimento de Sistemas 01/02/2021 - Atualmente
 
--Cursando o ensino médio da Escola Estadual de Profissional Mário Alencar. <br>
+## 👨🏻‍🏫 Experiência acadêmicas <br>
+-Liderei uma equipe de design e responsável pela programação do site resposivo em um startup <br>
 -Liderando design e programação em projeto social, conduzi equipe na criação de soluções impactantes para problemas sociais <br>
 -Colaborei ativamente na organização e realização de eventos escolares, visando o sucesso coletivo e a inclusão de todos os participantes.<br>
 
@@ -47,18 +48,18 @@ Ferramenta de Design: Figma <br> <br>
 
   <div>
    <a href="https://github.com/William05DEV">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamRodriguesDS&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRodriguesDS&layout=compact&langs_count=6&theme=merko"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamRodriguesDS&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRodriguesDS&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
-## Contatos: <br>
+## ✉️ Contatos: <br>
   E-mail: williamrodriguesdeoliveira22@gmail.com <br>
   linkedin: William Rodrigues de Oliveira <br>
   Telefone: (85) 99695-6965 <br>
   <a href = "mailto:williamrodriguesdeoliveira22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/william-rodrigues-de-oliveira-3b4701274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-## Certificados: <br>
+## 👨🏻‍💻 Certificados: <br>
 ![AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20240610-8-35cphq_page-0001](https://github.com/WilliamRodriguesDS/WilliamRodriguesDS/assets/170208874/6d0225c3-b727-4106-b35f-f34cccdd3343)
 ![GoogleDataAnalyticsProfessionalCertificate_Badge20240610-7-v5mpm1_page-0001](https://github.com/WilliamRodriguesDS/WilliamRodriguesDS/assets/170208874/790c604b-85d8-4ca8-8656-a45063ae1f62)
 ![Escola Virtual - Fundação Bradesco_page-0001](https://github.com/WilliamRodriguesDS/WilliamRodriguesDS/assets/170208874/21fb7a3e-1f2c-44fe-84db-12e50703b6b8)
