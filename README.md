@@ -22,7 +22,7 @@ Aventureiro digital, transformando aspirações em produtos inovadores com habil
 ## 💼 Educação: <br>
 Escola Estadual de Educação Profissional Mário Alencar - Primeira turma de Desenvolvimento de Sistemas 01/02/2021 - Atualmente
 
-## 👨🏻‍🏫 Experiência acadêmicas <br>
+## 👨 Experiência acadêmicas <br>
 -Liderei uma equipe de design e responsável pela programação do site resposivo em um startup <br>
 -Liderando design e programação em projeto social, conduzi equipe na criação de soluções impactantes para problemas sociais <br>
 -Colaborei ativamente na organização e realização de eventos escolares, visando o sucesso coletivo e a inclusão de todos os participantes.<br>
