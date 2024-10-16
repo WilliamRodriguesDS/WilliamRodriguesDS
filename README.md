@@ -52,11 +52,5 @@ DevOps: Git <br> <br>
   Telefone: (85) 99695-6965 <br>
   <a href = "mailto:williamrodriguesdeoliveira22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/william-rodrigues-de-oliveira-3b4701274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-## 👨🏻‍💻 Certificados: <br>
-![AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20240610-8-35cphq_page-0001](https://github.com/WilliamRodriguesDS/WilliamRodriguesDS/assets/170208874/6d0225c3-b727-4106-b35f-f34cccdd3343)
-![GoogleDataAnalyticsProfessionalCertificate_Badge20240610-7-v5mpm1_page-0001](https://github.com/WilliamRodriguesDS/WilliamRodriguesDS/assets/170208874/790c604b-85d8-4ca8-8656-a45063ae1f62)
-![Escola Virtual - Fundação Bradesco_page-0001](https://github.com/WilliamRodriguesDS/WilliamRodriguesDS/assets/170208874/21fb7a3e-1f2c-44fe-84db-12e50703b6b8)
-
 
 </div>
