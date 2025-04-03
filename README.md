@@ -1,4 +1,4 @@
-  ## 👨‍💻 William Rodrigues de Oliveira | Arquiteto de códigos, construindo pontes entre problemas e soluções 🚀
+  ## 👨‍💻 William Rodrigues de Oliveira 
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -15,17 +15,8 @@
 </picture>
 <div> 
  
-
-## 🌐 Olá! Seja bem vindo ao meu portfólio <br>
-Aventureiro digital, transformando aspirações em produtos inovadores com habilidades recém-adquiridas em desenvolvimento de sistemas
-
 ## 💼 Educação: <br>
 Escola Estadual de Educação Profissional Mário Alencar - Primeira turma de Desenvolvimento de Sistemas 2022 - 2025
-
-## 📖 Experiência acadêmicas <br>
--Liderei uma equipe de design e responsável pela programação do site resposivo em um startup <br>
--Liderando design e programação em projeto social, conduzi equipe na criação de soluções impactantes para problemas sociais <br>
--Colaborei ativamente na organização e realização de eventos escolares, visando o sucesso coletivo e a inclusão de todos os participantes.<br>
 
 ## 🚀 Habilidades Técnicas: <br>
 Linguagem de marcação: Html5 <br>
@@ -47,8 +38,6 @@ DevOps: Git <br> <br>
 
 ## ✉️ Contatos: <br>
   E-mail: williamrodriguesdeoliveira22@gmail.com <br>
-  linkedin: William Rodrigues de Oliveira <br>
-  Telefone: (85) 99695-6965 <br>
   <a href = "mailto:williamrodriguesdeoliveira22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/william-rodrigues-de-oliveira-3b4701274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
