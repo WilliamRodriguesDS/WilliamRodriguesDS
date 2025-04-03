@@ -20,7 +20,7 @@
 Aventureiro digital, transformando aspirações em produtos inovadores com habilidades recém-adquiridas em desenvolvimento de sistemas
 
 ## 💼 Educação: <br>
-Escola Estadual de Educação Profissional Mário Alencar - Primeira turma de Desenvolvimento de Sistemas 01/02/2021 - Atualmente
+Escola Estadual de Educação Profissional Mário Alencar - Primeira turma de Desenvolvimento de Sistemas 2022 - 2025
 
 ## 📖 Experiência acadêmicas <br>
 -Liderei uma equipe de design e responsável pela programação do site resposivo em um startup <br>
