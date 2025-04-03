@@ -15,10 +15,10 @@
 </picture>
 <div> 
  
-## 💼 Educação: <br>
+## 💼 Educação
 Escola Estadual de Educação Profissional Mário Alencar - Primeira turma de Desenvolvimento de Sistemas 2022 - 2025
 
-## 🚀 Habilidades Técnicas: <br>
+## 🚀 Habilidades Técnicas 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
